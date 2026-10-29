@@ -1,0 +1,10 @@
+{
+  "description": "Discover Moroccan fashion with AI-driven outfit suggestions, local sourcing, and a virtual wardrobe to manage your clothing collection effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
